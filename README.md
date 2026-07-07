@@ -17,6 +17,23 @@ This project is an end-to-end Retail Sales Analysis built using **SQL, Python, E
 
 ---
 
+## 🔄 Project Workflow
+
+```text
+Raw Data (CSV)
+        ↓
+SQL Analysis
+        ↓
+Python Exploratory Data Analysis (EDA)
+        ↓
+Excel Dashboard
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights & Recommendations
+
+```
+
 ## 🛠️ Tools & Technologies
 
 - SQL
@@ -81,14 +98,48 @@ Retail-Sales-Analysis/
 
 ## 🚀 Skills Demonstrated
 
-- SQL Data Analysis
+### SQL
+- Joins
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- Ranking Functions
+- Running Totals
+- Month-over-Month (MoM) Analysis
+
+### Python
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Dashboard Design
 - Data Visualization
-- DAX Measures
-- Pivot Tables
+- Correlation Analysis
 - Business Insights
+
+### Excel
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Slicers
+- Dashboard Design
+
+### Power BI
+- Power Query
+- DAX Measures
+- Interactive Dashboards
+- KPI Cards
+- Data Modeling
+
+### Business Analysis
+- Sales Performance Analysis
+- Profitability Analysis
+- Customer Segmentation
+- Product Performance Analysis
+- Trend Analysis
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates my ability to transform raw retail sales data into actionable business insights using SQL, Python, Excel, and Power BI. It showcases the complete analytics workflow—from data extraction and exploration to dashboard development and business storytelling.
 
 ---
 
